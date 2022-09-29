@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "minim",
+        "details": "ea ut dolor irure est sint fugiat eiusmod velit cupidatat",
+        "age": "25-30",
+        "time": 25,
+        "image": "https://placeimg.com/400/225/arch"
+    },
+    {
+        "id": 2,
+        "name": "duis",
+        "details": "sit voluptate consequat dolor sint fugiat aliquip id proident duis",
+        "age": "25-30",
+        "time": 20,
+        "image": "https://placeimg.com/400/225/arch"
+    },
+    {
+        "id": 3,
+        "name": "elit",
+        "details": "ad id esse id aute id nulla elit nostrud minim",
+        "age": "25-30",
+        "time": 30,
+        "image": "https://placeimg.com/400/225/arch"
+    },
+    {
+        "id": 4,
+        "name": "eiusmod",
+        "details": "adipisicing laborum anim velit excepteur pariatur eiusmod consequat dolor velit",
+        "age": "25-30",
+        "time": 30,
+        "image": "https://placeimg.com/400/225/arch"
+    },
+    {
+        "id": 5,
+        "name": "cillum",
+        "details": "proident irure occaecat ad laboris eiusmod aliquip minim pariatur velit",
+        "age": "25-30",
+        "time": 25,
+        "image": "https://placeimg.com/400/225/arch"
+    },
+    {
+        "id": 6,
+        "name": "aliquip",
+        "details": "consectetur est culpa cupidatat esse eiusmod adipisicing esse pariatur minim",
+        "age": "25-30",
+        "time": 30,
+        "image": "https://placeimg.com/400/225/arch"
+    }
+]

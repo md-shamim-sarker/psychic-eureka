@@ -1,0 +1,12 @@
+.App {
+  text-align: left;
+  display: grid;
+  grid-template-columns: 4fr 1fr;
+}
+
+.btn {
+  width: 100%;
+  padding: 8px 5px;
+  background-color: blueviolet;
+  color: white;
+}

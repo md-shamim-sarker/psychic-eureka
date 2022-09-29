@@ -23,7 +23,7 @@ const Right = (props) => {
     }, [breaks]);
 
     const completeHandler = () => {
-        Swal.fire('Any fool can use a computer');
+        Swal.fire('Complete Activity.');
     };
 
     return (

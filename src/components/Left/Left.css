@@ -1,12 +1,19 @@
-.cards {
+.left-cards {
+    width: 90%;
+    margin: auto;
     display: grid;
     background-color: white;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 10px;
 }
 
+.left-q {
+    width: 90%;
+    margin: auto;
+}
+
 @media screen and (max-width: 768px) {
-    .cards {
+    .left-cards {
         display: flex;
         flex-direction: column;
         width: 95vw;

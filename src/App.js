@@ -1,5 +1,6 @@
 import React, {useEffect, useState} from 'react';
 import './App.css';
+import Header from './components/Header/Header';
 import Left from './components/Left/Left';
 import Right from './components/Right/Right';
 
@@ -19,13 +20,18 @@ const App = () => {
 
   return (
     <div className='App'>
-      <Left
-        excercises={excercises}
-        gymHandler={gymHandler}
-      ></Left>
-      <Right
-        gyms={gyms}
-      ></Right>
+      <div>
+        <Header></Header>
+      </div>
+      <div className='body'>
+        <Left
+          excercises={excercises}
+          gymHandler={gymHandler}
+        ></Left>
+        <Right
+          gyms={gyms}
+        ></Right>
+      </div>
     </div>
   );
 };

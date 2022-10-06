@@ -1,7 +1,6 @@
 .card {
-    border: 1px solid blue;
-    padding: 10px;
-    margin: 25px;
+    border: 1px solid #bbbbeb;
+    padding: 1rem;
 }
 
 .card>img {

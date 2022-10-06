@@ -50,7 +50,7 @@ const Right = (props) => {
             <div style={{
                 backgroundColor: "white",
                 marginTop: "15px",
-                padding: "5px 0",
+                padding: "5px",
                 borderRadius: "5px"
             }}>
                 <small>Weight: 75kg |
